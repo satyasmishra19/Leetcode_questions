@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
@@ -23,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
