@@ -28,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
+## String
+|  |
+| ------- |
+| [2235-capitalize-the-title](https://github.com/satyasmishra19/Leetcode_questions/tree/master/2235-capitalize-the-title) |
 <!---LeetCode Topics End-->
