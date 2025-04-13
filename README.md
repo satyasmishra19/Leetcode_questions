@@ -31,5 +31,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2235-capitalize-the-title](https://github.com/satyasmishra19/Leetcode_questions/tree/master/2235-capitalize-the-title) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
