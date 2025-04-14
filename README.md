@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -49,4 +50,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
