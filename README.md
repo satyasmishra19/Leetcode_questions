@@ -50,5 +50,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
