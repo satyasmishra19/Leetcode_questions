@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0948-sort-an-array) |
+| [1677-matrix-diagonal-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +96,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0054-spiral-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
