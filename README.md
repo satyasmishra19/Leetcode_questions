@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0948-sort-an-array) |
 ## Two Pointers
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
 |  |
@@ -89,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0948-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
