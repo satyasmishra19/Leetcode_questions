@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0009-palindrome-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Heap (Priority Queue)
 |  |
