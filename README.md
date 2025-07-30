@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0136-single-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0948-sort-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1677-matrix-diagonal-sum) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0338-counting-bits) |
