@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0657-robot-return-to-origin) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2235-capitalize-the-title](https://github.com/satyasmishra19/Leetcode_questions/tree/master/2235-capitalize-the-title) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/satyasmishra19/Leetcode_questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0338-counting-bits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/satyasmishra19/Leetcode_questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1677-matrix-diagonal-sum) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/satyasmishra19/Leetcode_questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
