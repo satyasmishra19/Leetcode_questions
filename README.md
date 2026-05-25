@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0137-single-number-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0948-sort-an-array) |
+| [1672-richest-customer-wealth](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0054-spiral-matrix) |
+| [1672-richest-customer-wealth](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1677-matrix-diagonal-sum) |
 ## Backtracking
 |  |
