@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0137-single-number-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0948-sort-an-array) |
 | [1672-richest-customer-wealth](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1677-matrix-diagonal-sum) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
