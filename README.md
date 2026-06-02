@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0948-sort-an-array) |
+| [1095-find-in-mountain-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1095-find-in-mountain-array) |
 | [1672-richest-customer-wealth](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1095-find-in-mountain-array) |
 ## String
 |  |
 | ------- |
@@ -127,4 +129,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/satyasmishra19/Leetcode_questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
