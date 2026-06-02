@@ -9,7 +9,7 @@ class Solution {
                 //increasing part of an array
                 start=mid+1;
             }
-            else if (nums[mid]>nums[mid+1]) {
+            else {
                 //decreasing part of an array and may be the ans
                 end=mid;
             }
