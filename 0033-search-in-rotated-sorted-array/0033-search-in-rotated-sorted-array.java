@@ -1,34 +1,54 @@
 class Solution {
-    public int search(int[] nums, int target) {
-        int s = 0;
-        int e = nums.length-1;
-        while(s<e){
-            int m = s+(e-s)/2;
-            if(nums[m]>nums[e]){
-                s=m+1;
-            }else{
-                e=m;
-            }
+    static int search(int[] nums,int target) {
+        int k = findpivot(nums);
+        //3cases
+        if (k==-1) {
+            return binarysearch(nums,0,nums.length-1, target);
         }
-        int m1 = s;
-        if(target >= nums[m1] && target <= nums[nums.length-1]){
-            return Bsearch(nums,m1,nums.length - 1,target);
+        else if (nums[k] == target) {
+            return k;
+        }
+        else if (target>=nums[0]) {
+            return binarysearch(nums, 0, k-1, target);
         }else{
-            return Bsearch(nums,0,m1 - 1,target);
+            return binarysearch(nums, k+1, nums.length-1, target);
         }
-
     }
-    public int Bsearch(int[] nums, int s, int e, int target){
+    static int binarysearch(int[] nums,int start,int end,int target) {
         
-        while(s<=e){
-            int m = s+(e-s)/2;
-            if(nums[m] == target){
-                return m;
+        while (start<=end) {
+            int mid=start+((end-start)/2);
+            if (nums[mid]<target) {
+                start=mid+1;
             }
-            else if(nums[m]>target){
-                e=m-1;
+            else if (nums[mid]>target) {
+                end=mid-1;
+            }
+            else{
+                return mid;
+            }
+        }
+        return -1;
+    }
+
+    static int findpivot(int[] nums) {
+        int start= 0;
+        int end=nums.length-1;
+
+        while (start<=end) {
+            int mid=start+((end-start)/2);
+
+            //4 cases
+            if (mid<end && nums[mid]>nums[mid+1]) {
+                return mid;
+            }
+            else if (mid>start && nums[mid]<nums[mid-1]) {
+                return mid-1;
+            }
+            else if (nums[mid]>=nums[start]) {
+                start=mid+1;
             }else{
-                s=m+1;
+                end=mid-1;
             }
         }
         return -1;
