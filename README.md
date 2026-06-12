@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0137-single-number-ii) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
