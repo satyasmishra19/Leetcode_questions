@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -135,4 +138,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/satyasmishra19/Leetcode_questions/tree/master/1095-find-in-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/satyasmishra19/Leetcode_questions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
